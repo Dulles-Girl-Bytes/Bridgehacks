@@ -6,8 +6,8 @@
     <body>
    
 <iframe src="https://playcanv.as/p/61fb1da9/" width="200" height="200">
-<iframe height="300">
-<iframe width="700">
+<iframe height="100%">
+<iframe width="100%">
 </iframe>
     
     </body>
