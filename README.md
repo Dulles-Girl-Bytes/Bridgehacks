@@ -5,11 +5,9 @@
     </head>
     <body>
    
-<iframe src="https://playcanv.as/p/61fb1da9/" width="200" height="200">
-<iframe height="100%">
-<iframe width="100%">
+<iframe src="https://playcanv.as/p/61fb1da9/" width="300" height="300">
 </iframe>
     
-    </body>
+</body>
 </html>
 
