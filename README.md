@@ -5,7 +5,7 @@
     </head>
     <body>
     <style>
-    myFrame { width:200%; height:400%; }
+    myFrame { width:300%; height:"300"; }
 </style>
 
 <iframe src="https://playcanv.as/p/61fb1da9/" id="myFrame">
