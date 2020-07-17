@@ -1,7 +1,7 @@
 # Bridgehacks
 <html>
     <head>
-        <title>My Great Game</title>
+        <title>My Great Game!</title>
     </head>
     <body>
 
