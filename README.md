@@ -4,7 +4,13 @@
         <title>My Great Game</title>
     </head>
     <body> 
-
+<nav>
+  <ul>
+    <li><a href="#">Navigation</a></li>
+    <li><a href="#">Menu</a></li>
+    <li><a href="#">Links</a></li>
+  </ul>
+</nav>
    
 <div>
     <marquee>Please click on the game you want to play and then use the arrow keys to control the ball!</marquee>
