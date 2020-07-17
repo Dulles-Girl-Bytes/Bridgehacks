@@ -8,8 +8,7 @@
    
 <div>
     <marquee>Please click on the game you want to play and then use the arrow keys to control the ball!</marquee>
-    <iframe src="https://flowlab.io/game/play/1460389" height="500" width="660">
-    </iframe>
+
 </div>
 <br>
 
@@ -19,7 +18,7 @@
    </iframe>
 </div>
 <div>
-  <iframe width="320" height="335" src="https://flowlab.io/game/embed/1460389" frameborder="0" allowfullscreen></iframe>
+  <iframe width="600" height="400" src="https://flowlab.io/game/embed/1460389" frameborder="0" allowfullscreen></iframe>
   
 </div>
 
