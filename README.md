@@ -17,7 +17,7 @@
 </nav>
    
 <div>
-     <mark>Please click on the game you want to play and then use the arrow keys to control the ball!</mark>
+     <mark>We have stories for all ages! At the end we have added lessons that can help children learn more about what is going on in our world today. Enjoy!</mark>
     
 </div>
 <br>
