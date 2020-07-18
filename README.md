@@ -44,8 +44,8 @@
 </div>
 
 <div data-spy="scroll" data-target="#list-example" data-offset="0" class="scrollspy-example">
-  <h4 id="list-item-1">Item 1</h4>
-  <p>...</p>
+  <h4 id="list-item-1">A lending hand</h4>
+  <p> Felix Fox</p>
   <h4 id="list-item-2">Item 2</h4>
   <p>...</p>
   <h4 id="list-item-3">Item 3</h4>
