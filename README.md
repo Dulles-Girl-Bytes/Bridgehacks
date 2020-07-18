@@ -15,7 +15,7 @@
 </nav>
     <ul class="nav nav-pills">
   <li class="nav-item">
-    <a class="nav-link" href="home.html">Home</a>
+    <a class="nav-link" href="/home.html">Home</a>
       
   </li>
      <li class="nav-item">
@@ -23,13 +23,13 @@
     
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="racial.html">Racial Issues</a>
+    <a class="nav-link" href="/racial.html">Racial Issues</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="health.html">Health Issues</a>
+    <a class="nav-link" href="/health.html">Health Issues</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="edu.html">Education Issues</a>
+    <a class="nav-link" href="/edu.html">Education Issues</a>
   </li>
 </ul> 
     
