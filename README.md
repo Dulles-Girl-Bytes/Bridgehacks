@@ -21,10 +21,10 @@
       </h2>
     </div>
 
-    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+ <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
       <div class="card-body">
       
-      <div class="accordion" id="accordionExample">
+   <div class="accordion" id="accordionExample">
   <div class="card">
     <div class="card-header" id="headingOne">
       <h2 class="mb-0">
@@ -34,7 +34,7 @@
       </h2>
     </div>
 
-    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+ <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
       <div class="card-body">
         Felix Fox was on his daily afternoon stroll, when he saw a large group of animals collected around something. Curious to see what was happening, Felix Fox pushed through the crowd until he was at the center. What he saw was so horrifying, he couldn’t even speak. The Squilly squirrel family was standing with tiny suitcases in their furry arms looking at what used to be their home. In front of them lay a tree stump. Little Squirrel was carving a heart into the stump with a twig, while crying.
  
