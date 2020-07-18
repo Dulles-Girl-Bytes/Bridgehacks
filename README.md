@@ -9,6 +9,9 @@
 <div> 
     <ul class="nav nav-pills">
   <li class="nav-item">
+    <a class="nav-link" href="#">Home</a>
+  </li>
+     <li class="nav-item">
     <a class="nav-link active" href="#">Environmental Issues</a>
   </li>
   <li class="nav-item">
@@ -17,7 +20,9 @@
   <li class="nav-item">
     <a class="nav-link" href="#">Health Issues</a>
   </li>
-  
+  <li class="nav-item">
+    <a class="nav-link" href="#">Education Issues</a>
+  </li>
 </ul> 
     
 </div>
