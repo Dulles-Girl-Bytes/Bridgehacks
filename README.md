@@ -82,7 +82,7 @@ Little did she know that they would soon become great friends with each other’
 </div>
   <a class="list-group-item list-group-item-action" href="#list-item-2">Racial Issues</a>
     <div id="list-example" class="list-group">
-  <a class="list-group-item list-group-item-action" href="#list-item-3">Item 1</a>
+  <a class="list-group-item list-group-item-action" href="#list-item-3">BLM</a>
   <a class="list-group-item list-group-item-action" href="#list-item-4">Item 2</a>
 
 </div>
