@@ -20,8 +20,8 @@
       
   </li>
      <li class="nav-item">
-    <a class="nav-link" href="https://www.cnn.com/">Environmental Issues</a>
-    <a href="/envir.html">link title</a>
+    <a class="nav-link" href="/envir.html">Environmental Issues</a>
+    
   </li>
   <li class="nav-item">
     <a class="nav-link" href="EnvironmentalIssues.html">Racial Issues</a>
