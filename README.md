@@ -20,7 +20,7 @@
       
   </li>
      <li class="nav-item">
-    <a class="nav-link" href="/envir.html">Environmental Issues</a>
+    <a class="nav-link" href="/envir1.html">Environmental Issues</a>
     
   </li>
   <li class="nav-item">
