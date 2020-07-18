@@ -43,7 +43,7 @@
   <a class="list-group-item list-group-item-action" href="#list-item-1">Environmental Issues</a>
             <div id="list-example" class="list-group">
   <a class="list-group-item list-group-item-action" href="#list-item-1">A Lending Hand</a>
-  <a class="list-group-item list-group-item-action" href="#list-item-2">Item 2</a>
+  <a class="list-group-item list-group-item-action" href="#list-item-2">Climate Change</a>
  
 </div>
 <div data-spy="scroll" data-target="#list-example" data-offset="0" class="scrollspy-example">
