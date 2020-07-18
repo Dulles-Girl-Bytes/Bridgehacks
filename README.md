@@ -1,4 +1,4 @@
-# Felix's Fables
+
 <html>
     <head>
         <title>My Great Game</title>
@@ -15,7 +15,7 @@
 </nav>
     <ul class="nav nav-pills">
   <li class="nav-item">
-    <a class="nav-link" href="#">Home</a>
+    <a class="nav-link" href="home.html">Home</a>
       
   </li>
      <li class="nav-item">
