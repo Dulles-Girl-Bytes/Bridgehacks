@@ -29,7 +29,7 @@
     <a class="nav-link" href="health.html">Health Issues</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="#">Education Issues</a>
+    <a class="nav-link" href="edu.html">Education Issues</a>
   </li>
 </ul> 
     
