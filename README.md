@@ -15,8 +15,7 @@
    
 <div>
      <mark>Please click on the game you want to play and then use the arrow keys to control the ball!</mark>
-    <marquee>Please click on the game you want to play and then use the arrow keys to control the ball!</marquee>
-
+    
 </div>
 <br>
 
