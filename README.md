@@ -42,7 +42,7 @@
 </div>  
   <blockquote class="blockquote text-center"> Enjoy! </blockquote>
 
-
+<br>
 <br>
 <div>
  Meet our friend, Felix Fox! Join him in his journey to becoming a better fox! 
