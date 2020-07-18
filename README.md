@@ -21,7 +21,7 @@
     <a class="nav-link" href="https://www.cnn.com/">Environmental Issues</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="Dulles-Girl-Bytes.github.io/EnvironmentalIssues">Racial Issues</a>
+    <a class="nav-link" href="https://dulles-girl-bytes.github.io/EnvironmentalIssues">Racial Issues</a>
   </li>
   <li class="nav-item">
     <a class="nav-link" href="#">Health Issues</a>
