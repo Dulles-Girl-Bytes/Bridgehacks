@@ -1,7 +1,8 @@
 # Felix's Fables
 <html>
     <head>
-        <title>My Great Game</title>
+        <title>My Great Game</title><
+    <link rel="stylesheet" href="css/style.css">
     </head>
     <body> 
       
@@ -17,7 +18,7 @@
     <a class="nav-link" href="#">Home</a>
   </li>
      <li class="nav-item">
-    <a class="nav-link active" href="#">Environmental Issues</a>
+    <a class="nav-link active" href="cnn.com">Environmental Issues</a>
   </li>
   <li class="nav-item">
     <a class="nav-link" href="#">Racial Issues</a>
