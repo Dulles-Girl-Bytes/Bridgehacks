@@ -62,7 +62,7 @@ Mama squirrel thought for a moment. She had heard that foxes in general were sly
 Little did she know that they would soon become great friends with each other’s families. 
 
 
-      </div>
+      </div> 
     </div>
   </div>
   <div class="card">
