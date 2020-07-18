@@ -23,7 +23,7 @@
     
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="">Racial Issues</a>
+    <a class="nav-link" href="racial.html">Racial Issues</a>
   </li>
   <li class="nav-item">
     <a class="nav-link" href="health.html">Health Issues</a>
