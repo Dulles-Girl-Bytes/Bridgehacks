@@ -39,7 +39,7 @@
 
 
 <div id="list-example" class="list-group">
-  <a class="list-group-item list-group-item-action" href="#list-item-1">Item 1</a>
+  <a class="list-group-item list-group-item-action" href="#list-item-1">Environmental Issues</a>
             <div id="list-example" class="list-group">
   <a class="list-group-item list-group-item-action" href="#list-item-1">Item 1</a>
   <a class="list-group-item list-group-item-action" href="#list-item-2">Item 2</a>
