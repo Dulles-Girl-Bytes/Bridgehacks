@@ -75,8 +75,31 @@ Lesson 1: Deforestation
 Lesson 2: Don’t make assumptions about others based on stereotypes because everyone is different. It is important to give everyone a chance to prove themselves. We need to learn to accept all members of society. 
 
 </p>
-  <h4 id="list-item-2">Item 2</h4>
-  <p>...</p>
+  <h4 id="list-item-2">Eating Healthy</h4>
+  <p>It was an ordinary day for Felix Fox as he made his way to his home. He heard his stomach grumble, realizing that it was hungry.
+
+“Mom! Where’s the food?” he asked out loud.
+To his surprise, Felicity Fox responded in a harsh tone, “Go get some yourself!”
+
+Felix jumped in shock to hear his mom angry. He left the house, scared to communicate with her. Felix takes on the journey to get his food through the jungle, looking for anything that looks appealing. As he walks, he finds a cake covered in sugar and instantly reaches for it. 
+
+Suddenly, his dad’s voice comes into his mind “don't eat any sugar! Itll cause you to become sick! You're young, you need healthy food to become a big and strong fox!”. He disregards it, convincing himself it was just a myth and that he would be just fine with the cake. As he bit it, his face began to turn purple and he found himself sick to the stomach. 
+
+“Help! Help!” He cried out, hoping for someone to hear him. He began to have a stomachache.
+
+Suddenly his friend, Gary Grasshopper flew over him. Seeing him in this state, he panicked, unaware of what happened and what to do. He frantically looked around, searching for a clue as to what happened. He saw the cake and knew. 
+
+“Felix Fox! Don't worry, I'm here. I know what happened and how to stop it!”. Gary said and instantly went to work. He began to look for a counterpart to the cake, something healthy that would stop the sugary sweet. 
+
+He saw a fresh piece of strawberry and knew that was it. He ran to it and took it, feeding it to Felix Fox. Instantly Felix stood up, his stomach still and face returned to normal.
+
+“Thank you so muc Gary! I don't know what i would have done without you!”
+“Of course Felix. That's what friends do! And also, please, next time, don't eat the cake!”
+“Yeah, I knew i shouldnt. I heard an inner voice tell me not too, but I still did. I shouldn't have though”
+“At Least you're fine now Felix. You're lucky I was walking through this forest!”
+
+Eating healthy, importance of friendship, listening to your inner conscious 
+</p>
   <h4 id="list-item-3">Item 3</h4>
   <p>...</p>
   <h4 id="list-item-4">Item 4</h4>
