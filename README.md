@@ -1,7 +1,7 @@
 # Felix's Fables
 <html>
     <head>
-        <title>My Great Game</title><
+        <title>My Great Game</title>
     <link rel="stylesheet" href="css/style.css">
     </head>
     <body> 
