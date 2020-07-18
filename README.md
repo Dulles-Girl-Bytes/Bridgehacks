@@ -113,9 +113,9 @@ Little did she know that they would soon become great friends with each other’
 
 </div>
 <div data-spy="scroll" data-target="#list-example" data-offset="0" class="scrollspy-example">
-  <h4 id="list-item-7">A Lending Hand</h4>
+  <h4 id="list-item-7">Item 7</h4>
   <p>...</p>
-  <h4 id="list-item-8">Item 2</h4>
+  <h4 id="list-item-8">Item 8</h4>
   <p>...</p>
  
 </div>
