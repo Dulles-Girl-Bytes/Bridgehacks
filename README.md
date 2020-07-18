@@ -18,7 +18,7 @@
     <a class="nav-link" href="#">Home</a>
   </li>
      <li class="nav-item">
-    <a class="nav-link active" href="cnn.com">Environmental Issues</a>
+    <a class="nav-link active" href="https://www.cnn.com/">Environmental Issues</a>
   </li>
   <li class="nav-item">
     <a class="nav-link" href="#">Racial Issues</a>
