@@ -33,7 +33,7 @@
     <a class="nav-link" href="/edu.html">Education Issues</a>
   </li>
 </ul> 
-    
+<br>    
 </div>
 <div>
  Check out our Categories: Environmental Issues, Racial Issues, Health Issues, Education Issues!
