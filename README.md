@@ -3,6 +3,13 @@
     <head>
         <title>My Great Game</title>
     <link rel="stylesheet" href="css/style.css">
+        <style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
     </head>
     <body style="margin:20px;"> 
     <div>
