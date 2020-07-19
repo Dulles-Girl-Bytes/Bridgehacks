@@ -39,8 +39,8 @@
 </ul> 
 <br>    
 </div>
+
 <div>
- Check out our Categories: Environmental Issues, Racial Issues, Health Issues, Education Issues!
 </div>
 <br>
 <br>
