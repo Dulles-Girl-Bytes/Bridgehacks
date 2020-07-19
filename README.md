@@ -12,6 +12,7 @@ img {
 </style>
     </head>
     <body style="margin:20px;"> 
+        <br>
     <div>
         <img src="foxlogo.png" width = "400" height = "100"  style="vertical-align:middle">
         </div>
