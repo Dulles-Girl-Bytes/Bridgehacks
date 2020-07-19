@@ -47,7 +47,7 @@ img {
     <a class="nav-link" href="/link.html">Important Links</a>
   </li>
 </ul> 
-<br>    
+ 
 </div>
 
 <div>
