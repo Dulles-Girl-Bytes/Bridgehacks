@@ -14,7 +14,7 @@ img {
       
    </head>
    <body style="margin:20px;background-color:#D3C1C3;"> 
-        <br>
+
     <br>
     <div>
         <img src="foxlogo.png" width = "500" height = "150"  style="vertical-align:middle">
