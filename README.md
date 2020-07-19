@@ -44,6 +44,7 @@
   <blockquote class="blockquote text-center"> Enjoy! </blockquote>
 
 <br>
+<img src="bucketfox.jpg" width = "400" height = "300">
 <br>
 <div>
  Meet our friend, Felix Fox! Join him in his journey to becoming a better fox! 
