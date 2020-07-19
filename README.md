@@ -13,7 +13,7 @@ img {
     <link rel="stylesheet" href="css/style.css">
       
    </head>
-   <body style="margin:20px;background-color:#99FF5B;"> 
+   <body style="margin:20px;background-color:#BBFF91;"> 
         <br>
     <div>
         <img src="foxlogo.png" width = "400" height = "100"  style="vertical-align:middle">
