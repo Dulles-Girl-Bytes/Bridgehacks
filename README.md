@@ -60,7 +60,7 @@ img {
 </div>  
   <blockquote class="blockquote text-center"> Enjoy! </blockquote>
 
-<img src="bucketfox.png" width = "400" height = "300" class = "center">
+<img src="bucketfox.png" width = "600" height = "450" class = "center">
 
 
 
