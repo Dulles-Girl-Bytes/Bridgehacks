@@ -60,9 +60,11 @@ img {
   <blockquote class="blockquote text-center"> Enjoy! </blockquote>
 
 <img src="bucketfox.png" width = "400" height = "300" class = "center">
+<br>
 
 <div>
- Meet our friend, Felix Fox! Join him in his journey to becoming a better fox! 
+<p  style="font-size:30px"> Hi, I’m Felix Fox! I have a little brother, Felipe Fox, who goes by PePe. My mom is Felicity Fox and my dad is Fernando. I live in Forest Hills on Foxington Lane. Here you will learn about my life with my family and friends and how much I’ve learned from them about social issues and global injustices. I hope you’ll learn a thing or two from my experiences and educate yourself more on the problems in our society through the links provided! Please donate if you can to the various links- it will certainly help and contribute to overcoming many of the challenges that our world faces.
+    <p>
 </div>
 
 
