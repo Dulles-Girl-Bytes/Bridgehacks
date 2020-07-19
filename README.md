@@ -13,7 +13,7 @@ img {
     <link rel="stylesheet" href="css/style.css">
       
    </head>
-   <body style="margin:20px;background-color:#D3C1C3;"> 
+   <body style="margin:20px;background-color:#E2D0BE;"> 
 
     <br>
     <div>
