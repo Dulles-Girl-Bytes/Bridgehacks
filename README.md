@@ -9,6 +9,8 @@ img {
   margin-right: auto;
 }
 </style>
+        <p style="font-size:30px">This is a paragraph.</p>
+<p style="font-size:11px">This is another paragraph.</p>
     <link rel="stylesheet" href="css/style.css">
       
    </head>
