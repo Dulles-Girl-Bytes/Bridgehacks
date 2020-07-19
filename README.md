@@ -16,7 +16,7 @@
 </nav>
     <ul class="nav nav-pills">
   <li class="nav-item">
-    <a class="nav-link" href="/home.html">Home</a>
+    <a class="nav-link" href="#">Home</a>
       
   </li>
      <li class="nav-item">
