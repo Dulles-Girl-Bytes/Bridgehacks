@@ -13,7 +13,7 @@ img {
     <link rel="stylesheet" href="css/style.css">
       
    </head>
-   <body style="margin:20px;background-color:#FFFFFF;"> 
+   <body style="margin:20px;background-color:#D3C1C3;"> 
 
     <br>
     <div>
@@ -23,7 +23,7 @@ img {
 <br>
 <div>
     
-    <nav class="navbar navbar-light" style="background-color: #5c6d70;">
+    <nav class="navbar navbar-light" style="background-color: #FFFFFF;">
   <!-- Navbar content -->
 </nav>
     <ul class="nav nav-pills">
