@@ -50,7 +50,7 @@
  Meet our friend, Felix Fox! Join him in his journey to becoming a better fox! 
 </div>
 
-<br>
+
    </body>
 </html>
 
