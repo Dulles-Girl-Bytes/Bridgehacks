@@ -71,8 +71,7 @@ img {
     </p>
 
 
-    </p>
-    </p>
+  
 </div>
 </body>
 </html>
