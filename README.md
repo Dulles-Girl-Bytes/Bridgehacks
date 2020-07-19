@@ -71,7 +71,7 @@ img {
     </p>
    <br>
 
-    
+    </p>
 </dev>
 </body>
 </html>
