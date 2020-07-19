@@ -6,7 +6,7 @@
     </head>
     <body style="margin:20px;"> 
     <div>
-        <img src="foxlogo.png" width = "400" height = "100">
+        <img src="foxlogo.png" width = "400" height = "100" align="center">
         </div>
       <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
 
@@ -44,7 +44,7 @@
   <blockquote class="blockquote text-center"> Enjoy! </blockquote>
 
 <br>
-<img src="bucketfox.jpg" width = "400" height = "300">
+<img src="bucketfox.jpg" width = "400" height = "300" align = "center">
 <br>
 <div>
  Meet our friend, Felix Fox! Join him in his journey to becoming a better fox! 
