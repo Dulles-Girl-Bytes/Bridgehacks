@@ -72,7 +72,8 @@ img {
 
 
     </p>
-</dev>
+    </p>
+</div>
 </body>
 </html>
 
