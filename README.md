@@ -58,7 +58,7 @@ img {
 <div class="alert alert-info" role="alert">
   For centuries, there have been prevalent social issues, and it is important that we work towards justice for everyone! On each section of this website, you will find different stories about our main character Felix Fox! Please take a look at our simple, child-friendly stories and try to learn from the lessons at the end. Thanks!
 </div>  
-  <blockquote class="blockquote text-center"> Enjoy! </blockquote>
+ 
 
 <img src="bucketfox.png" width = "600" height = "450" class = "center">
 
