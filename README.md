@@ -70,7 +70,7 @@ img {
     </p>
 </dev>
 
-<br>
+
 </body>
 </html>
 
