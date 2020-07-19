@@ -11,8 +11,8 @@ img {
 </style>
     <link rel="stylesheet" href="css/style.css">
       
-    </head>
-    <body style="margin:20px;"> 
+   </head>
+   <body style="margin:20px;"> 
         <br>
     <div>
         <img src="foxlogo.png" width = "400" height = "100"  style="vertical-align:middle">
