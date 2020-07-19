@@ -2,14 +2,15 @@
 <html>
     <head>
         <title>My Great Game</title>
-    <link rel="stylesheet" href="css/style.css">
-        <style>
+          <style>
 img {
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 </style>
+    <link rel="stylesheet" href="css/style.css">
+      
     </head>
     <body style="margin:20px;"> 
         <br>
