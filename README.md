@@ -65,7 +65,7 @@ img {
 
 <br><br>
 <br>
-<div class="alert alert-light" role="alert">
+<div>
 <p  style="font-size:20px"> Hi, I’m Felix Fox! I have a little brother, Felipe Fox, who goes by PePe. My mom is Felicity Fox and my dad is Fernando. I live in Forest Hills on Foxington Lane. Here you will learn about my life with my family and friends and how much I’ve learned from them about social issues and global injustices. I hope you’ll learn a thing or two from my experiences and educate yourself more on the problems in our society through the links provided! Please donate if you can to the various links- it will certainly help and contribute to overcoming many of the challenges that our world faces.
     </p>
 </dev>
